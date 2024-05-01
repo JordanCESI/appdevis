@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/appdevis/static/css/main.fafa3725.css",
-    "main.js": "/appdevis/static/js/main.ec5bff74.js",
-    "static/js/453.69585ae1.chunk.js": "/appdevis/static/js/453.69585ae1.chunk.js",
-    "index.html": "/appdevis/index.html",
-    "main.fafa3725.css.map": "/appdevis/static/css/main.fafa3725.css.map",
-    "main.ec5bff74.js.map": "/appdevis/static/js/main.ec5bff74.js.map",
-    "453.69585ae1.chunk.js.map": "/appdevis/static/js/453.69585ae1.chunk.js.map"
+    "main.css": "/AppDevisDylan/static/css/main.fafa3725.css",
+    "main.js": "/AppDevisDylan/static/js/main.498fbc61.js",
+    "static/js/453.69585ae1.chunk.js": "/AppDevisDylan/static/js/453.69585ae1.chunk.js",
+    "index.html": "/AppDevisDylan/index.html",
+    "main.fafa3725.css.map": "/AppDevisDylan/static/css/main.fafa3725.css.map",
+    "main.498fbc61.js.map": "/AppDevisDylan/static/js/main.498fbc61.js.map",
+    "453.69585ae1.chunk.js.map": "/AppDevisDylan/static/js/453.69585ae1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fafa3725.css",
-    "static/js/main.ec5bff74.js"
+    "static/js/main.498fbc61.js"
   ]
 }
