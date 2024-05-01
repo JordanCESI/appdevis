@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 import { Button } from "../../components/ui/button";
 import { Label } from "../../components/ui/label";
 
-const Home = () => {
+const Mesure = () => {
     return(
         <div className="flex flex-col items-center justify-center p-5 space-y-4 bg-white shadow-md rounded-lg">
             <div className="p-3 w-fit border rounded border-gray-300">
@@ -16,7 +16,7 @@ const Home = () => {
             <div className="p-3 w-full  rounded">
                 <div className="text-center">
                     <Button variant={"ghost"} className="border">
-                          <Link to="newclient">Client</Link>
+                          <Link to="newclient">Test</Link>
                     </Button>
                 </div>
             </div>
@@ -24,4 +24,4 @@ const Home = () => {
     )
 }
 
-export default Home; 
+export default Mesure; 
